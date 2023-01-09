@@ -3,7 +3,8 @@ module.exports = {
   content: ["./**/*.html"],
   theme: {
     colors: {
-      'sand': '#F7F7F7'
+      'sand': '#F7F7F7',
+      'white': '#FFFFFF'
     },
 
     extend: {
