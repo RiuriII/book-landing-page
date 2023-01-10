@@ -41,6 +41,9 @@ module.exports = {
       animation: {
         pulse: 'pulse 2s infinite',
         cartAnimation: 'cartAnimation linear .4s '
+      },
+      screens: {
+        sm: '450px'
       }
     },
   },
